@@ -8,7 +8,7 @@ public class FirstTest {
 
 	@Test
 	public void FirstTestNG() throws IOException{
-		CommandExecutor.exeCmd(null, "ipconfig");
+		CommandExecutor.exeCmd(null, "dir");
 		System.out.println("TTTTTTTTTTTTTTTTTTTTTTTTTTTTT");
 		
 	}
