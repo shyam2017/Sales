@@ -26,7 +26,8 @@ public class CommandExecutor {
 	public static void exeCmd(String Path,String commandexe)  {
 	
 		if (Path == null) {
-			path = "cd " + USER_DIR + File.separator;
+		//	path = "cd " + USER_DIR + File.separator;
+			path="cd C:/Windows/System32";
 		} else {
 
 			path = Path;
