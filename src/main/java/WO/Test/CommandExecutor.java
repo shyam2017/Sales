@@ -26,7 +26,7 @@ public class CommandExecutor {
 	public static void exeCmd(String Path,String commandexe)  {
 	
 		if (Path == null) {
-		 path = "cd " + USER_DIR + File.separator + "src/main/java/WO/Test/common/WONFinalScenarios";
+		 path = "cd " + USER_DIR + File.separator;
 			
 		} else {
 
