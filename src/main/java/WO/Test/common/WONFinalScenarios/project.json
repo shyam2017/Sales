@@ -1,0 +1,14 @@
+{
+  "name": "MainProject",
+  "description": "Project",
+  "main": "C:\\Users\\10616278.NMUMARL\\Desktop\\UiPath demo\\MainProject\\RevenueReport(1).xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "17.1.6435.21855",
+  "projectVersion": "1.0.6543.31226",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
